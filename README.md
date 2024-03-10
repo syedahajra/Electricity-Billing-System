@@ -1,4 +1,4 @@
-# Electricity-Billing-System
+# Electricity-Billing-System - Second Semester Object-Oriented Programming Projecr
 
 ## Overview:
 
