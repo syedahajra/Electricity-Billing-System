@@ -1,4 +1,4 @@
-# Electricity-Billing-System - Second Semester Object-Oriented Programming Projecr
+# Electricity-Billing-System - Second Semester Object-Oriented Programming Project
 
 ## Overview:
 
@@ -77,10 +77,6 @@ This C++ project implements an Electricity-Billing-System that allows for the ma
 ## Note:
 
 - This readme assumes that you have a basic understanding of C++ programming and file handling.
-
-## Credits:
-
-This project was developed as part of the Object-Oriented Programming (OOP) course during the second semester.
 
 **Developers:**
 - Syeda Hajra
